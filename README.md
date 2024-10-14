@@ -9,14 +9,6 @@ The **Food Ordering System** is a microservice-based application designed using 
 - [System Architecture](#system-architecture)
 - [Tech Stack](#tech-stack)
 - [Project Structure](#project-structure)
-- [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Running Locally](#running-locally)
-  - [Running with Docker](#running-with-docker)
-  - [Running in Kubernetes](#running-in-kubernetes)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
